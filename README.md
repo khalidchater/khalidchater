@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalidchater
+- 👋 Hi, I’m @khalid
 - 👀 I’m interested in full stack web developer
 - 🌱 I’m currently learning React js laravel
 - 💞️ I’m looking to collaborate on ...
